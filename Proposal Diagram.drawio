@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T09:34:41.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8TIx8NRQtMYVURviwCkt" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T09:40:57.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CazCE5KSoqCiQaS68dxq" version="23.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lt4sIG0qt5cg9dwQDyGw-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;opacity=60;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="250" width="135" height="95" as="geometry" />
+        </mxCell>
         <mxCell id="Lt4sIG0qt5cg9dwQDyGw-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="160" width="205" height="70" as="geometry" />
         </mxCell>
@@ -160,6 +163,11 @@
         <UserObject label="Sensor Subsystem" placeholders="1" name="Variable" id="Lt4sIG0qt5cg9dwQDyGw-125">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" vertex="1" parent="1">
             <mxGeometry x="318.75" y="160" width="97.5" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Software Subsystem" placeholders="1" name="Variable" id="Lt4sIG0qt5cg9dwQDyGw-128">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="55.63" y="255" width="108.75" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
