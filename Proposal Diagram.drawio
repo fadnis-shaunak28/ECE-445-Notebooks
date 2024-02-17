@@ -1,22 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T22:58:13.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cG89bZwpSF7dGP5BbQP4" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T23:00:27.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="J0t9CQwZLm2iX9R28Weh" version="23.1.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qraEgwC79fjRJJOxNa_y-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="130" width="140" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt4sIG0qt5cg9dwQDyGw-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" parent="qraEgwC79fjRJJOxNa_y-47" vertex="1">
+          <mxGeometry width="140" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt4sIG0qt5cg9dwQDyGw-3" value="Peltier Heating Component" style="rounded=0;whiteSpace=wrap;html=1;" parent="qraEgwC79fjRJJOxNa_y-47" vertex="1">
+          <mxGeometry x="21.879999999999995" y="37.5" width="95" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Heating Subsystem" placeholders="1" name="Variable" id="Lt4sIG0qt5cg9dwQDyGw-121">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" parent="qraEgwC79fjRJJOxNa_y-47" vertex="1">
+            <mxGeometry x="8.75" y="7.5" width="121.25" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="qraEgwC79fjRJJOxNa_y-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="235" y="480" width="140" height="100" as="geometry" />
+          <mxGeometry x="210" y="480" width="148.43" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Lt4sIG0qt5cg9dwQDyGw-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="qraEgwC79fjRJJOxNa_y-48" vertex="1">
-          <mxGeometry width="140" height="100" as="geometry" />
+          <mxGeometry width="148.43" height="110.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="Lt4sIG0qt5cg9dwQDyGw-2" value="Microcontroller + Bluetooth Module" style="rounded=0;whiteSpace=wrap;html=1;" parent="qraEgwC79fjRJJOxNa_y-48" vertex="1">
-          <mxGeometry x="10" y="27.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="10.602142857142859" y="30.250000000000004" width="127.22571428571429" height="66" as="geometry" />
         </mxCell>
+        <UserObject label="Control Subsystem" placeholders="1" name="Variable" id="qraEgwC79fjRJJOxNa_y-67">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" vertex="1" parent="qraEgwC79fjRJJOxNa_y-48">
+            <mxGeometry x="-8.93760642857143" width="116.62357142857144" height="22" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="qraEgwC79fjRJJOxNa_y-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="474.06" y="255" width="315" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="qraEgwC79fjRJJOxNa_y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt4sIG0qt5cg9dwQDyGw-5" target="Lt4sIG0qt5cg9dwQDyGw-3">
+        <mxCell id="qraEgwC79fjRJJOxNa_y-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt4sIG0qt5cg9dwQDyGw-5" target="Lt4sIG0qt5cg9dwQDyGw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt4sIG0qt5cg9dwQDyGw-5" value="Current Sensor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -26,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt4sIG0qt5cg9dwQDyGw-6" value="Ceramic Pad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354.06" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lt4sIG0qt5cg9dwQDyGw-110" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="90" y="60" width="120" height="80" as="geometry" />
@@ -117,20 +136,6 @@
         <mxCell id="qraEgwC79fjRJJOxNa_y-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qraEgwC79fjRJJOxNa_y-3" target="Lt4sIG0qt5cg9dwQDyGw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qraEgwC79fjRJJOxNa_y-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="130" width="140" height="87.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Lt4sIG0qt5cg9dwQDyGw-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" parent="qraEgwC79fjRJJOxNa_y-47" vertex="1">
-          <mxGeometry width="140" height="87.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Lt4sIG0qt5cg9dwQDyGw-3" value="Peltier Heating Component" style="rounded=0;whiteSpace=wrap;html=1;" parent="qraEgwC79fjRJJOxNa_y-47" vertex="1">
-          <mxGeometry x="21.879999999999995" y="37.5" width="95" height="40" as="geometry" />
-        </mxCell>
-        <UserObject label="Heating Subsystem" placeholders="1" name="Variable" id="Lt4sIG0qt5cg9dwQDyGw-121">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" parent="qraEgwC79fjRJJOxNa_y-47" vertex="1">
-            <mxGeometry x="8.75" y="7.5" width="121.25" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="qraEgwC79fjRJJOxNa_y-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="82.5" y="290" width="135" height="95" as="geometry" />
         </mxCell>
@@ -166,6 +171,11 @@
         <UserObject label="Sensor Subsystem" placeholders="1" name="Variable" id="qraEgwC79fjRJJOxNa_y-32">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" vertex="1" parent="qraEgwC79fjRJJOxNa_y-51">
             <mxGeometry y="5" width="121.25" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GPIO Touch Pins" placeholders="1" name="Variable" id="qraEgwC79fjRJJOxNa_y-68">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="320" y="385" width="58.75" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
