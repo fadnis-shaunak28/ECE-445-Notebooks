@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T02:48:20.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8t5Z20WjqqGvcgdvlomQ" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T03:01:07.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_Jz7UeTUL97eKXPhVTgE" version="23.1.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1373" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="385.63" y="290" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qraEgwC79fjRJJOxNa_y-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="386.59" y="345" width="343.41" height="85" as="geometry" />
+          <mxGeometry x="386.59" y="350" width="333.41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qraEgwC79fjRJJOxNa_y-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="520" width="290" height="140" as="geometry" />
@@ -117,7 +117,7 @@
         <mxCell id="qraEgwC79fjRJJOxNa_y-3" value="15A Step-Down Converter (12-5.5V)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="589.02" y="597.5" width="117.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="HiyRN5I2vMWk7KIYHkQ8-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qraEgwC79fjRJJOxNa_y-31" target="HiyRN5I2vMWk7KIYHkQ8-54" edge="1">
+        <mxCell id="jp2hRJiwT73V6jLLSagm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qraEgwC79fjRJJOxNa_y-31" target="HiyRN5I2vMWk7KIYHkQ8-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qraEgwC79fjRJJOxNa_y-31" value="Current Sensor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qraEgwC79fjRJJOxNa_y-6" value="Capacitive Touch Wire" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="394.38" y="380" width="95" height="45" as="geometry" />
+          <mxGeometry x="394.38" y="375" width="95" height="45" as="geometry" />
         </mxCell>
         <UserObject label="Sensor Subsystem" placeholders="1" name="Variable" id="qraEgwC79fjRJJOxNa_y-32">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=10;fontStyle=1" parent="1" vertex="1">
@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jp2hRJiwT73V6jLLSagm-10" value="Current Sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="367.5" width="92.5" height="40" as="geometry" />
+          <mxGeometry x="614.02" y="367.5" width="92.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jp2hRJiwT73V6jLLSagm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jp2hRJiwT73V6jLLSagm-46" target="jp2hRJiwT73V6jLLSagm-10">
           <mxGeometry relative="1" as="geometry" />
