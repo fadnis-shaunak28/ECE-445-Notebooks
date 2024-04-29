@@ -18,14 +18,19 @@ Tasks Accomplished:
 - This week I got a chance to look at our prosal and review them with Zicheng along with some comments from Professor Gruev. Some of these comments included a higher level block diagram which included more labeling for I/O pins as well as chart labels.
 - Additioanlly, I looked at parts that would be helpful for constructing our bluetooth burner. This included the arduino/microcontroller of choice: ESP32, and the test kit: ESP32- Dev Board. While doing this I also made sure to investigate alternatives such as Arduino Nano	or ESP8266, but the trade offs in bluetooth for processing power did not seem feasable.
 
-Goals for the follow week
+Goals for the follow week:
 - One thing that we were not able to do this week was begin working on our PCB. This was primarily due to us still figuring out what parts we want to use for the rest of the bluetooth burner.
 - Gather materials such as ESP 32 dev kit so that I can begin working on software components. One responsibility that I took on was working on the control and sofware subsystems. 
 ## Week 3 (2/19)
-- Prepared design doucment for design review
-- Determined parts needed for bluethooth burner from digikey and amazon
-- Met with Shaunak and Jason (OH TA) to determine best methods of utilizing heating/cooling effects
-- Outlined software high level user interface with Navin
+Objective of the Week: My goal this week was to continue to work on our design document for the upcoming design review,. My team and I aimed to finalize the parts list that we will use and get it approved during the design document. Lastly, I also want to begin designing front-end with Navin. 
+
+Tasks Accomplished:
+- This week I spent more time working on the design document and preparing for the design review. This included spending hours with Shaunak and Navin on PCB design as well as finsihing our final list for part orders. 
+- One question that Shaunak and I had to ask during office hours was the best methods of heating/cooling. Jason explained to us that the best ways to implement our heating and cooling on the PCB is using a buck converter, so we looked up parts and implementation methods for them
+
+Goals for  the following week:
+- This week I did not get as much time as I wanted to to work on the front end part of the project. After the design document, I aim to work on the software component on the dev board or in XCode desigining the app.
+- Finish PCB design with Shaunak and Navin and try to get it verified. 
 ## Week 4 (2/26)
 - Completed design review with Professor Viktor Gruev
 - Improved upon overall design from design review. This included schematic adjustments such as [Include Changes]
