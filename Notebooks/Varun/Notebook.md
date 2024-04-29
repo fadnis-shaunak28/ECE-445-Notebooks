@@ -26,16 +26,28 @@ Objective of the Week: My goal this week was to continue to work on our design d
 
 Tasks Accomplished:
 - This week I spent more time working on the design document and preparing for the design review. This included spending hours with Shaunak and Navin on PCB design as well as finsihing our final list for part orders. 
-- One question that Shaunak and I had to ask during office hours was the best methods of heating/cooling. Jason explained to us that the best ways to implement our heating and cooling on the PCB is using a buck converter, so we looked up parts and implementation methods for them
+- One question that Shaunak and I had to ask during office hours was the best methods of heating/cooling. Jason explained to us that the best ways to implement our heating and cooling on the PCB is using a buck converter, so we looked up parts and implementation methods for them.
+- Lastly I began working on the control subsystem's circuit design which will be used in the PCB. Somethings that I had to think about while desiging this included external parts and secondary subsystems such as sensor or power subsystems. 
 
 Goals for  the following week:
 - This week I did not get as much time as I wanted to to work on the front end part of the project. After the design document, I aim to work on the software component on the dev board or in XCode desigining the app.
 - Finish PCB design with Shaunak and Navin and try to get it verified. 
 ## Week 4 (2/26)
-- Completed design review with Professor Viktor Gruev
-- Improved upon overall design from design review. This included schematic adjustments such as [Include Changes]
-- Started working on PCB with Shaunak
+Objective of the Week: This our week, my objective is to improve upon the design doc by incorperating the feedback that we will recieve during our design review. I also want to begin on the front-end part of our mobile application, and help Shaunak work on our PCB
+
+Tasks Accomplished:
+- This week my team and I went through a design review with Professor Gruev. In this design review we went over the goals of the projects, parts needed, and how we can accomplish these goals. One thing that Professor mentioned was using a P-Type mosfet to allow for power to pass through to our heating subsystem. He outlined that the buck converter can step down the voltage to 5V, then the ptype mosfet will be responsible for allowin voltage to go through.
+- We further discussed how we can apply pwm regulation to our heating subsystem to regulate how hot or cold we want our temperature to be. 
+- I began also looking into developing the software with Navin. We met up and strated outlining the design for the front-end in Xcode.
+- Finally, I send the control subsystem circuit schematic to Shaunak, so that he can apply it onto the PCB and hopefully we can get it approved.
+
+Goals for the following week:
+- Review Design Doc final rubric with Zicheng to discuess what we can improve upon for the design document regrade.
+- Send in part order list and PCB design before spring break
+- Continue to work on software development
+  
 ## Week 5 (3/4)
+Objective of the Week: Objective of this week is to order all our parts and get our front-end app done in Swift/XCode. Additionally, I want to make sure that I can order some parts such as dev kit, digikey items, and amazon items before spring break. 
 - Started building bluetooth burner application in swift
 - Reviewed Design Doc with mentor for finalization
 ## Week 6 (Spring Break)
