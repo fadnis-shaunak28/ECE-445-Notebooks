@@ -48,8 +48,15 @@ Goals for the following week:
   
 ## Week 5 (3/4)
 Objective of the Week: Objective of this week is to order all our parts and get our front-end app done in Swift/XCode. Additionally, I want to make sure that I can order some parts such as dev kit, digikey items, and amazon items before spring break. 
-- Started building bluetooth burner application in swift
-- Reviewed Design Doc with mentor for finalization
+
+Tasks Accomplished:
+- This week I was not able to work on the bluetooth burner as much due to the fact that I had midterms going on. However, I was still able to review the design doc for potential improvements.
+- Additionally, Navin and I added button inputs and event listeners for the Swift mobile app
+- Finally, I sent out an order for all of the parts that we will need for our project.
+
+Goals for the following week:
+- Once we recieve our parts we hope to begin building out the burner on the bread board
+- Continue working on software component and PCB layout with Navin and Shaunak
 ## Week 6 (Spring Break)
 
 ## Week 7
