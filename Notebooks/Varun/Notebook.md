@@ -57,8 +57,36 @@ Tasks Accomplished:
 Goals for the following week:
 - Once we recieve our parts we hope to begin building out the burner on the bread board
 - Continue working on software component and PCB layout with Navin and Shaunak
-## Week 6 (Spring Break)
+## Week 6 (Spring Break 3/11)
 
-## Week 7
-- Finished iphone application front end
-- Started working on ESP 32 protocols and bluetooth communication 
+## Week 7 (3/18)
+Objective of the Week: This week my objective is to finalize and send in our PCB with the help of my team so that we can order by wave 3. 
+
+Tasks accomplished
+- One task that we were able to accomplish with the this week was compleating our PCB and sending in the order for wave 3
+- Parts have started to come in and I have began to pick them up. One thing that we needed was an ESP 32 Dev kit, but it was all out in the lab, so I ordered a few test kits from Amazon.
+
+Goals for the following week:
+- After the dev kits have arrived, write bluetooth software code and test connection with Phone.
+- Begin outlining control subsystem code
+
+## Week 8 (3/25)
+Objective of the Week: For me the objective of this week is to work on the ESP 32 dev kit and write code for bluetooth infrastructure
+
+Tasks accomlished
+- My team and I sent in third wave orders for PCB.
+- This week I was able to get bluetooth code working on the ESP32. I was able to test this via an nrfi editor that scans for blueooth signals. In my code, I utilized bluetooth low energy (BLE); however, I might switch to Bluetooth Serial as the signal cannot be seen on the normal bluetooth settings.
+- In addition to this, I also worked with Navin to test out the software subsystem on iOS. We did not have much luck in deploying the code, we also thought of alternative ways to build the app, such as MIT app inventor. We decided that we will parallely work on the Software subsytem, with Navin working on the iOS side, and I will work on the MIT app inventor side. 
+
+Goals for the following week:
+- Continue to work on the control subsytem, especially bluetooth connection.
+- Work on software subsystem on the MIT app inventor side
+- Begin assembling IR sensor on breadboard and test IR sensor with ESP 32 Dev Kit.
+
+## Week 9 (4/1)
+
+## Week 9 (4/8)
+
+## Week 9 (4/15)
+
+## Week 9 (4/22)
