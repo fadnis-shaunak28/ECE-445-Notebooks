@@ -85,8 +85,8 @@ Goals for the following week:
 
 ## Week 9 (4/1)
 
-## Week 9 (4/8)
+## Week 10 (4/8)
 
-## Week 9 (4/15)
+## Week 11 (4/15)
 
-## Week 9 (4/22)
+## Week 12 (4/22)
