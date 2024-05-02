@@ -93,6 +93,8 @@ Goals for the following week:
 
 Attachments:
 ![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/788a4cfe-ffd0-447c-98a4-76304c8ecb8c)
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/c8c572d1-2160-4ef5-a5c2-cf722cf16ad2)
+
 
 
 ## Week 9 (4/1)
