@@ -102,7 +102,7 @@ Tasks accomplished:
 - This week I was able to interate the IR sensor and Bluetooth connection. Using a NRFI editor, I can see the packets coming into the bluetooth channel. Using UTF-8 decoding, I can see what information is sent in the packets. This will be applied to the front end app hopefully soon.
 - Additioanlly, Navin and I worked togeather to assemble capacitative touch on the ESP 32 dev kit. This was relatively quick and only required a few lines of code.
 - I didn't get much done on the PCB aside from helping Shaunak stencil a mosfet onto the board.
-- Lastly, Navin and I worked on assembling the power subsystem onto the bread oad. We were able to achieve power conversion from 12V power source to a 5V ouptut via a voltage converter. 
+- Lastly, Navin and I worked on assembling the power subsystem onto the bread oad. We were able to achieve power conversion from 12V power source to a 5V ouptut via a voltage converter. We also implemented a P-Type mosfet on the board to control when power should be released. 
 
 Goal for the following week:
 - Wrap up front-end code with Navin and integrate temperature settings along with event listeners to change power
@@ -110,5 +110,22 @@ Goal for the following week:
 - Continue working on PCB
 
 ## Week 11 (4/15)
+Objective of the Week: This week my goal is to work with my team to connect the major subsystems on the bread board, and possibly on the PCB if our 4th order PCB comes in time. 
+
+Tasks Accomplished:
+- This week Navin and I finished connecting the front-end code to the bluetooth channels, allowing for data transmission between ESP32 and the front end to be displayed on the app.
+- Additionally, I worked with Shaunak to coil up our resistive coil for the heating subsystem, so that him and Navin can begin testing it and find our temperature ranges.
+- In the mean time I also worked on developing power width modulation code for the ESP32, so that it can provide various power outpus and duty cycles for our power and heating subsystems.
+- As a team, we tried to solider on the power jack to the PCB; however, when we were testing it, only 1.6V were being outputted. Therefore, we had to scrap the idea of a PCB, and completely more our project to the breadboard.
+
+Goals for the following week:
+- For the folliwng week, my goal is to help my team wrap our project and also give a presentation to Professor Gruev and other TA's
 
 ## Week 12 (4/22)
+Objective of the Week: Finish up project on breadboard and present to the class
+
+Tasks Accomplished:
+- This week our goal was to finish up as much of our project as we can.
+- I was able to link control, software, power, and sensor subsystems togeather with the help of Navin and Shaunak. We ran into problem with the heating subsystem, as our power subsystem was not able to draw enough current to heat up our resistive coil. This made our heating subsystem unusable for the demo
+- Overall, we were able to show 4/5 main subsystems and meet 2/3 high level requirements for the project demo
+
