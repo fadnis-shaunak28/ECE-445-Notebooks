@@ -31,7 +31,8 @@ Tasks Accomplished:
 
 Goals for  the following week:
 - This week I did not get as much time as I wanted to to work on the front end part of the project. After the design document, I aim to work on the software component on the dev board or in XCode desigining the app.
-- Finish PCB design with Shaunak and Navin and try to get it verified. 
+- Finish PCB design with Shaunak and Navin and try to get it verified.
+
 ## Week 4 (2/26)
 Objective of the Week: This our week, my objective is to improve upon the design doc by incorperating the feedback that we will recieve during our design review. I also want to begin on the front-end part of our mobile application, and help Shaunak work on our PCB
 
@@ -40,6 +41,10 @@ Tasks Accomplished:
 - We further discussed how we can apply pwm regulation to our heating subsystem to regulate how hot or cold we want our temperature to be. 
 - I began also looking into developing the software with Navin. We met up and strated outlining the design for the front-end in Xcode.
 - Finally, I send the control subsystem circuit schematic to Shaunak, so that he can apply it onto the PCB and hopefully we can get it approved.
+
+Attachments:
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/304324dd-f61b-4c61-813a-e8c1dac82358)
+
 
 Goals for the following week:
 - Review Design Doc final rubric with Zicheng to discuess what we can improve upon for the design document regrade.
@@ -64,11 +69,14 @@ Objective of the Week: This week my objective is to finalize and send in our PCB
 
 Tasks accomplished
 - One task that we were able to accomplish with the this week was compleating our PCB and sending in the order for wave 3
-- Parts have started to come in and I have began to pick them up. One thing that we needed was an ESP 32 Dev kit, but it was all out in the lab, so I ordered a few test kits from Amazon.
+- Parts have started to come in and I have began to pick them up. One thing that we needed was an ESP 32 Dev kit, but it was all out in the lab, so I ordered a few test kits from Amazon, and began testing with it
 
 Goals for the following week:
 - After the dev kits have arrived, write bluetooth software code and test connection with Phone.
 - Begin outlining control subsystem code
+  
+Attachments:
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/c7cb8a8c-2df4-481e-9822-2c4cc930e6e7)
 
 ## Week 8 (3/25)
 Objective of the Week: For me the objective of this week is to work on the ESP 32 dev kit and write code for bluetooth infrastructure
@@ -83,6 +91,10 @@ Goals for the following week:
 - Work on software subsystem on the MIT app inventor side
 - Begin assembling IR sensor on breadboard and test IR sensor with ESP 32 Dev Kit.
 
+Attachments:
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/788a4cfe-ffd0-447c-98a4-76304c8ecb8c)
+
+
 ## Week 9 (4/1)
 Objective of the Week: This week my objective is to continue working on the control subsystem features, such as bluetooth connectivity and IR sensor integration. I also plan on working with Navin to finalize our software subsystem. 
 
@@ -90,10 +102,18 @@ Tasks accomplished:
 - This week I was able to finish up the bluetooth connectivity with Bluetooth serial. With bluetooth serial, I am able to see the bluetooth device on the device list. I also took some readings of the signal strenght and noticed that within 20 meters, the ESP32 signal strenght is relatively good.
 - I also began assembling the IR sensor on the breadboard. At first some of the wires were a little bit lose, so testing it was a bit of a problem. For future use,
 I think we should solder on the IR sensor to a mount.
-
+- Finally, I also finished making the app in MIT app inventor. Navin and I decided it would be easier for us to use MIT app inventor since it provides easy to use code and testing. XCode/Swift on the other hand, would require us to continiously deploy app to iPhone, which made hte proceess a lot harder. 
 Goal for the following week:
 - For the following weeks, I aim to fully integrate the IR sensor with bluetooth code so that it can be displayed on the mobile application.
 - Additionally, I will work in Shaunak to begin soldering our PCB in hopes that we can get it working for the final demo
+
+Attachments:
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/42820ef1-204e-444e-839c-dd93453b0b00)
+
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/a1d05f46-7f01-4676-88cd-0320a92995ee)
+
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/91b01583-1637-431a-a895-cf30b2ecd8ef)
+
 
 ## Week 10 (4/8)
 Objective of the Week: This week I have a few things that must get done. For starters, I need to fully integrate the IR sensor and bluetooth funcionalities. I also will work with Shaunak to try to flash the ESP32 on the PCB. Lastly, I also want to write code for the capcaitative touch wire on the GPIO pins. 
@@ -109,6 +129,11 @@ Goal for the following week:
 - Test heating subsystem with Shaunak and integrate it with power subsystem and control subsystem
 - Continue working on PCB
 
+Attachments:
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/da955e9b-899a-4175-ba13-2b924528f0a2)
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/978a4fc1-7b80-45a5-a0c4-c1e9941571b0)
+
+
 ## Week 11 (4/15)
 Objective of the Week: This week my goal is to work with my team to connect the major subsystems on the bread board, and possibly on the PCB if our 4th order PCB comes in time. 
 
@@ -120,6 +145,11 @@ Tasks Accomplished:
 
 Goals for the following week:
 - For the folliwng week, my goal is to help my team wrap our project and also give a presentation to Professor Gruev and other TA's
+
+Attachments:
+![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/49337e23-520a-481e-823c-20bb293544f4)
+
+
 
 ## Week 12 (4/22)
 Objective of the Week: Finish up project on breadboard and present to the class
