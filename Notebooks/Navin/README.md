@@ -7,12 +7,7 @@ Tasks Accomplished:
 - Worked on understanding requirements and design specifications for the sensor and software subsystems of our product
 - Worked on a tolerance analysis using specific heat capacity equation (as follows):
 
-\begin{align*}
-    $\text{Area} &= L \times W = 0.1\,\text{m} \times 0.1\,\text{m} = 0.01\,\text{m}^2 \\
-    \text{Volume} &= \text{Area} \times \text{Thickness} = 0.01\,\text{m}^2 \times 0.002\,\text{m} = 0.00002\,\text{m}^3 \\
-    m &= \rho \times \text{Volume} = 2500\,\text{kg/m}^3 \times 0.00002\,\text{m}^3 = 0.05\,\text{kg} \\
-    Q &= mc\Delta T = 0.05\,\text{kg} \times 1000\,\text{J/(kg°C)} \times 30\,^\circ\text{C} = 1500\,\text{J}$
-\end{align*}
+![Example Image](tolanalysis)
 
 ## Week 2 (2/12)
 
