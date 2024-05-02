@@ -84,8 +84,30 @@ Goals for the following week:
 - Begin assembling IR sensor on breadboard and test IR sensor with ESP 32 Dev Kit.
 
 ## Week 9 (4/1)
+Objective of the Week: This week my objective is to continue working on the control subsystem features, such as bluetooth connectivity and IR sensor integration. I also plan on working with Navin to finalize our software subsystem. 
+
+Tasks accomplished:
+- This week I was able to finish up the bluetooth connectivity with Bluetooth serial. With bluetooth serial, I am able to see the bluetooth device on the device list. I also took some readings of the signal strenght and noticed that within 20 meters, the ESP32 signal strenght is relatively good.
+- I also began assembling the IR sensor on the breadboard. At first some of the wires were a little bit lose, so testing it was a bit of a problem. For future use,
+I think we should solder on the IR sensor to a mount.
+
+Goal for the following week:
+- For the following weeks, I aim to fully integrate the IR sensor with bluetooth code so that it can be displayed on the mobile application.
+- Additionally, I will work in Shaunak to begin soldering our PCB in hopes that we can get it working for the final demo
 
 ## Week 10 (4/8)
+Objective of the Week: This week I have a few things that must get done. For starters, I need to fully integrate the IR sensor and bluetooth funcionalities. I also will work with Shaunak to try to flash the ESP32 on the PCB. Lastly, I also want to write code for the capcaitative touch wire on the GPIO pins. 
+
+Tasks accomplished:
+- This week I was able to interate the IR sensor and Bluetooth connection. Using a NRFI editor, I can see the packets coming into the bluetooth channel. Using UTF-8 decoding, I can see what information is sent in the packets. This will be applied to the front end app hopefully soon.
+- Additioanlly, Navin and I worked togeather to assemble capacitative touch on the ESP 32 dev kit. This was relatively quick and only required a few lines of code.
+- I didn't get much done on the PCB aside from helping Shaunak stencil a mosfet onto the board.
+- Lastly, Navin and I worked on assembling the power subsystem onto the bread oad. We were able to achieve power conversion from 12V power source to a 5V ouptut via a voltage converter. 
+
+Goal for the following week:
+- Wrap up front-end code with Navin and integrate temperature settings along with event listeners to change power
+- Test heating subsystem with Shaunak and integrate it with power subsystem and control subsystem
+- Continue working on PCB
 
 ## Week 11 (4/15)
 
