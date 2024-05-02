@@ -108,8 +108,6 @@ Goal for the following week:
 - Additionally, I will work in Shaunak to begin soldering our PCB in hopes that we can get it working for the final demo
 
 Attachments:
-![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/42820ef1-204e-444e-839c-dd93453b0b00)
-
 ![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/a1d05f46-7f01-4676-88cd-0320a92995ee)
 
 ![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/91b01583-1637-431a-a895-cf30b2ecd8ef)
