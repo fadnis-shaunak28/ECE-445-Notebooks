@@ -87,28 +87,28 @@ Attachments:
 
 
 ## Week 11 (4/15)
-Objective of the Week: This week my goal is to work with my team to connect the major subsystems on the bread board, and possibly on the PCB if our 4th order PCB comes in time. 
+Objective of the Week: Fully implement and test all subsystem components, both individually and as a whole unit
 
 Tasks Accomplished:
-- This week Navin and I finished connecting the front-end code to the bluetooth channels, allowing for data transmission between ESP32 and the front end to be displayed on the app.
-- Additionally, I worked with Shaunak to coil up our resistive coil for the heating subsystem, so that him and Navin can begin testing it and find our temperature ranges.
-- In the mean time I also worked on developing power width modulation code for the ESP32, so that it can provide various power outpus and duty cycles for our power and heating subsystems.
-- As a team, we tried to solider on the power jack to the PCB; however, when we were testing it, only 1.6V were being outputted. Therefore, we had to scrap the idea of a PCB, and completely more our project to the breadboard.
-
-Goals for the following week:
-- For the folliwng week, my goal is to help my team wrap our project and also give a presentation to Professor Gruev and other TA's
-
-Attachments:
-![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/49337e23-520a-481e-823c-20bb293544f4)
-
+- Varun and I finished data transmission in connecting the mobile application interface to the bluetooth channels for IR sensor and capacitive touch
+- Tested temperature ranges and implementation for peltier module and nichrome wire for our heating subsystem
+- Helped a bit with PWM code for MOSFETS, Shaunak and Varun took lead on that however
+- Unable to support subsytems on PCB, unfortunately
 
 
 ## Week 12 (4/22)
 Objective of the Week: Finish up project on breadboard and present to the class
 
 Tasks Accomplished:
-- This week our goal was to finish up as much of our project as we can.
-- I was able to link control, software, power, and sensor subsystems togeather with the help of Navin and Shaunak. We ran into problem with the heating subsystem, as our power subsystem was not able to draw enough current to heat up our resistive coil. This made our heating subsystem unusable for the demo
-- Overall, we were able to show 4/5 main subsystems and meet 2/3 high level requirements for the project demo
+- Able to link control, software, power, and sensor subsystems together, had more difficulty with heating subsystem due to current bottlenecking.
+- Able to show 4/5 main subsystems and meet 2/3 high level requirements for the project demo
 
+## Week 13 (4/22)
+Objective of the Week: Final Presentation, Paper, and fine-tuning lab notebook
+
+Tasks Accomplished:
+- Presented our design successes and failures successfully in final presentation with Professor Gruev and TA Zicheng, specifically I discussed our objective and intro, software subsystem design, and future work choices
+- Finished up our Final Report, utilizing some concepts from our design document as well as reflection over our verifications and design decisions throughout the semester
+
+## THE END
 
