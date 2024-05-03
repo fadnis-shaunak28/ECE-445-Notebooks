@@ -95,6 +95,8 @@ Tasks Accomplished:
 - Helped a bit with PWM code for MOSFETS, Shaunak and Varun took lead on that however
 - Unable to support subsytems on PCB, unfortunately
 
+  ![Ceramic Pad and Coil](Coil_top.jpg)
+
 
 ## Week 12 (4/22)
 Objective of the Week: Finish up project on breadboard and present to the class
