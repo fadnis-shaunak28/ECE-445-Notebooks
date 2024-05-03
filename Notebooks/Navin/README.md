@@ -74,18 +74,12 @@ Tasks accomplished:
 
 
 ## Week 10 (4/8)
-Objective of the Week: This week I have a few things that must get done. For starters, I need to fully integrate the IR sensor and bluetooth funcionalities. I also will work with Shaunak to try to flash the ESP32 on the PCB. Lastly, I also want to write code for the capcaitative touch wire on the GPIO pins. 
+Objective of the Week: Testing functionality of IR sensor, peltier module and capacitive touch pin all with ESP32 on the breadboarded DevKit 
 
 Tasks accomplished:
-- This week I was able to interate the IR sensor and Bluetooth connection. Using a NRFI editor, I can see the packets coming into the bluetooth channel. Using UTF-8 decoding, I can see what information is sent in the packets. This will be applied to the front end app hopefully soon.
-- Additioanlly, Navin and I worked togeather to assemble capacitative touch on the ESP 32 dev kit. This was relatively quick and only required a few lines of code.
-- I didn't get much done on the PCB aside from helping Shaunak stencil a mosfet onto the board.
-- Lastly, Navin and I worked on assembling the power subsystem onto the bread oad. We were able to achieve power conversion from 12V power source to a 5V ouptut via a voltage converter. We also implemented a P-Type mosfet on the board to control when power should be released. 
-
-Goal for the following week:
-- Wrap up front-end code with Navin and integrate temperature settings along with event listeners to change power
-- Test heating subsystem with Shaunak and integrate it with power subsystem and control subsystem
-- Continue working on PCB
+- Fully integrate IR sensor and Bluetooth connection.
+- Varun and I worked together to assemble capacitative, relatively quick with direct streamline to ESP32 GPIO pin
+- Worked with Varun in assembling the power subsystem onto the breadboard. Fully incorporated P-type MOSFET and 12V-5V converter on breadboard
 
 Attachments:
 ![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/da955e9b-899a-4175-ba13-2b924528f0a2)
