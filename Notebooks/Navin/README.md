@@ -7,7 +7,7 @@ Tasks Accomplished:
 - Worked on understanding requirements and design specifications for the sensor and software subsystems of our product
 - Worked on a tolerance analysis using specific heat capacity equation (as follows):
 
-![Example Image](tolanalysis)
+![Tolerance Analysis Equations](tolanalysis)
 
 ## Week 2 (2/12)
 
@@ -46,41 +46,31 @@ Tasks Accomplished:
 ## Week 7 (3/18)
 Objective of the Week: Have our PCB finalized to be ready for 3rd round order, complete front-end for mobile application
 
-Tasks accomplished
-- We were able to have our first PCB order sent in!
+Tasks accomplished:
+- We were able to have our first PCB footprints ready
 - Other Digikey and Amazon parts have started to come in, orders for semester all finalized (for the most part)
 - mobile application UI finished, with three buttons for low, medium, and high heating and a cooling, as well as bluetooth connect/disconnect button (see below):
-
   
-
+![Swift UI design](swiftui.png)
 
 ## Week 8 (3/25)
-Objective of the Week: For me the objective of this week is to work on the ESP 32 dev kit and write code for bluetooth infrastructure
+Objective of the Week: Start Writing code to initialize Bluetooth with ESP32 with Varun, start working on connectivity with our Swift UI
 
 Tasks accomlished
-- My team and I sent in third wave orders for PCB.
-- This week I was able to get bluetooth code working on the ESP32. I was able to test this via an nrfi editor that scans for blueooth signals. In my code, I utilized bluetooth low energy (BLE); however, I might switch to Bluetooth Serial as the signal cannot be seen on the normal bluetooth settings.
-- In addition to this, I also worked with Navin to test out the software subsystem on iOS. We did not have much luck in deploying the code, we also thought of alternative ways to build the app, such as MIT app inventor. We decided that we will parallely work on the Software subsytem, with Navin working on the iOS side, and I will work on the MIT app inventor side. 
-
-Attachments:
-![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/788a4cfe-ffd0-447c-98a4-76304c8ecb8c)
-![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/c8c572d1-2160-4ef5-a5c2-cf722cf16ad2)
-
+- Third wave orders for PCB sent in officially
+- Working code in Arduino for data transfer from ESP32 and mobile device via Bluetooth
+- Rerouted from our previous Swift UI, as Bluetooth through Xcode proved difficult, as well as deploying app from outdated software
 
 
 ## Week 9 (4/1)
-Objective of the Week: This week my objective is to continue working on the control subsystem features, such as bluetooth connectivity and IR sensor integration. I also plan on working with Navin to finalize our software subsystem. 
+Objective of the Week: Finalize software subsystem
 
 Tasks accomplished:
-- This week I was able to finish up the bluetooth connectivity with Bluetooth serial. With bluetooth serial, I am able to see the bluetooth device on the device list. I also took some readings of the signal strenght and noticed that within 20 meters, the ESP32 signal strenght is relatively good.
-- I also began assembling the IR sensor on the breadboard. At first some of the wires were a little bit lose, so testing it was a bit of a problem. For future use,
-I think we should solder on the IR sensor to a mount.
-- Finally, I also finished making the app in MIT app inventor. Navin and I decided it would be easier for us to use MIT app inventor since it provides easy to use code and testing. XCode/Swift on the other hand, would require us to continiously deploy app to iPhone, which made hte proceess a lot harder.
-  
-Attachments:
-![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/a1d05f46-7f01-4676-88cd-0320a92995ee)
+- Bluetooth connectivity with Bluetooth serial finished. Advertising to device list fully functional
+- Began assembling the IR sensor on the breadboard. Had difficulty keeping it on breadboard, for future we could look into mounting
+- Transitioned to making the app in MIT app inventor. Varun and I decided it would be easier for us to use MIT app inventor since it provides easy-to-use code and testing
 
-![image](https://github.com/fadnis-shaunak28/ECE-445-Notebooks/assets/157566074/91b01583-1637-431a-a895-cf30b2ecd8ef)
+  
 
 
 ## Week 10 (4/8)
