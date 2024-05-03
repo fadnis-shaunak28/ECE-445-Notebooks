@@ -70,7 +70,7 @@ Tasks accomplished:
 - Began assembling the IR sensor on the breadboard. Had difficulty keeping it on breadboard, for future we could look into mounting
 - Transitioned to making the app in MIT app inventor. Varun and I decided it would be easier for us to use MIT app inventor since it provides easy-to-use code and testing
 
-  
+![MIT App Inventor design](MITapp.png)
 
 
 ## Week 10 (4/8)
